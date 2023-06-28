@@ -1,6 +1,6 @@
 ## 2023
 
-* E. Kuklin and S. Pravdin, "Overdrive Pacing of 2D Coupled Spiral Waves," 2023 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russian Federation, 2023. P. 079-082, doi: 10.1109/USBEREIT58508.2023.10158837.  
+* Overdrive Pacing of 2D Coupled Spiral Waves / E. Kuklin and S. Pravdin // 2023 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Ekaterinburg, Russian Federation, 2023. P. 079-082, doi: 10.1109/USBEREIT58508.2023.10158837.  
   **Scopus**
 
 ## 2022
