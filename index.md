@@ -1,25 +1,28 @@
 ## 2023
 
+* E. Kuklin and S. Pravdin, "Overdrive Pacing of 2D Coupled Spiral Waves," 2023 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russian Federation, 2023. P. 079-082, doi: 10.1109/USBEREIT58508.2023.10158837.  
+  **Scopus**
+
 ## 2022
 
-* Teaching Advanced AI Development Techniques with a New Master’s Program in Artificial Intelligence Engineering / A. Sozykin, E. Kuklin, I. Yumanova // Lecture Notes in Computer Science. 2022. Vol. 13708: Supercomputing. RuSCDays 2022. Springer: Cham. P.562-573.  
+* Teaching Advanced AI Development Techniques with a New Master’s Program in Artificial Intelligence Engineering / A. Sozykin, E. Kuklin, I. Yumanova // Lecture Notes in Computer Science. 2022. Vol. 13708: Supercomputing. RuSCDays 2022. Springer: Cham. P.562-573, doi: 10.1007/978-3-031-22941-1_41.  
    **Web of Science, Scopus**
-* Classification of Software Developer Skills Using Analysis of Russian Job Ads / D. Shadrin, A. Sozykin, E. Kuklin, A. Bersenev // 2022 Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), 19-21 Sept., 2022, Ekaterinburg (Russia). 2022. P. 236-239.  
+* Classification of Software Developer Skills Using Analysis of Russian Job Ads / D. Shadrin, A. Sozykin, E. Kuklin, A. Bersenev // 2022 Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), 19-21 Sept., 2022, Ekaterinburg (Russia). 2022. P. 236-239, doi: 10.1109/USBEREIT56278.2022.9923408.  
    **Scopus**
    
 ## 2021
 
-* Developing Educational Programs Using Russian IT Job Market Analysis / A. Sozykin, A. Koshelev, A. Bersenev, D. Shadrin, A. Aksenov, E. Kuklin // 2021 Ural Symposium on Biomedical Engineering, Radioelectronics and Infor-mation Technology (USBEREIT), 13-14 May 2021. P. 0391-0394.  
+* Developing Educational Programs Using Russian IT Job Market Analysis / A. Sozykin, A. Koshelev, A. Bersenev, D. Shadrin, A. Aksenov, E. Kuklin // 2021 Ural Symposium on Biomedical Engineering, Radioelectronics and Infor-mation Technology (USBEREIT), 13-14 May 2021. P. 0391-0394, doi: 10.1109/USBEREIT51232.2021.9454998.  
    **Scopus**
    
 ## 2020
    
-* In-silico Analysis of the Role of Boundary Conditions in the Induced Drift of 2D Spiral Waves / E. Kuklin, S. Pravdin // 2020 Ural Symposium on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Ekaterinburg, Russia, 2020. P. 0081-0084.  
+* In-silico Analysis of the Role of Boundary Conditions in the Induced Drift of 2D Spiral Waves / E. Kuklin, S. Pravdin // 2020 Ural Symposium on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Ekaterinburg, Russia, 2020. P. 0081-0084, doi: 10.1109/USBEREIT48449.2020.9117633.   
    **Scopus**
    
 ## 2018
    
-* LiFlow web service for quick launch of large experiment series on supercomputers / E. Kuklin, S. Pravdin // Procedia Computer Science. 2018. T.136. P. 44-51.  
+* LiFlow web service for quick launch of large experiment series on supercomputers / E. Kuklin, S. Pravdin // Procedia Computer Science. 2018. T.136. P. 44-51, doi: 10.1016/j.procs.2018.08.236.  
    **Web of Science, Scopus**
 * A web-based system for launching large experiment series on supercomputers / E. Kuklin, S. Pravdin // CEUR-WS proc.- 2018.- Vol. 2281.- C.136-145.  
    **Scopus**
