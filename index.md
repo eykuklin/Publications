@@ -2,7 +2,7 @@
 
 ## 2024
 
-* Dynamics of Multi-Armed Spiral Waves / Evgeniy Kuklin, Sergei F.Pravdin // IEEE Xplore. 2024: Sibircon-2024. P.145-150. DOI: 10.1109/SIBIRCON63777.2024.10758464 
+* Dynamics of Multi-Armed Spiral Waves / Evgeniy Kuklin, Sergei F.Pravdin // IEEE Xplore. 2024: Sibircon-2024. P.145-150. DOI: 10.1109/SIBIRCON63777.2024.10758464.  
   **Scopus**
 
 ## 2023
