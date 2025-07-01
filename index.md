@@ -1,4 +1,4 @@
-# List of publications / Evgeniy Kuklin
+# Evgeniy Kuklin
 
 ## 2024
 
