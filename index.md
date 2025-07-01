@@ -1,3 +1,10 @@
+# List of publications / Evgeniy Kuklin
+
+## 2024
+
+* Dynamics of Multi-Armed Spiral Waves / Evgeniy Kuklin, Sergei F.Pravdin // IEEE Xplore. 2024: Sibircon-2024. P.145-150. DOI: 10.1109/SIBIRCON63777.2024.10758464 
+  **Scopus**
+
 ## 2023
 
 * Overdrive Pacing of 2D Coupled Spiral Waves / E. Kuklin and S. Pravdin // 2023 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Ekaterinburg, Russian Federation, 2023. P. 079-082, doi: 10.1109/USBEREIT58508.2023.10158837.  
