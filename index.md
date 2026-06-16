@@ -1,4 +1,11 @@
 # Evgeniy Kuklin
+### ORCID: 0000-0003-1512-3778
+## Publication list
+
+# 2026
+
+* Free and anchored multi-arm spiral waves in exitable media /Sergei F. Pravdin, Evgeniy Yu. Kuklin, Pavel A. Chistyakov, Alexander V. Panfilov  // Chaos, Solitons and Fractals, 2026, doi: 10.1016/j.chaos.2026.118606.  
+   **Accepted, in the process of publication**
 
 ## 2024
 
