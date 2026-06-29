@@ -4,12 +4,12 @@
 
 ## 2026
 
-* Free and anchored multi-arm spiral waves in exitable media / Sergei F. Pravdin, Evgeniy Yu. Kuklin, Pavel A. Chistyakov, Alexander V. Panfilov  // Chaos, Solitons and Fractals, 2026, doi: 10.1016/j.chaos.2026.118606.  
-   **Accepted, in the process of publication**
+* Free and anchored multi-arm spiral waves in exitable media / Sergei F. Pravdin, Evgeniy Yu. Kuklin, Pavel A. Chistyakov, Alexander V. Panfilov  // Chaos, Solitons and Fractals, Volume 210, Part 2, 118606, ISSN 0960-0779, 2026, doi: 10.1016/j.chaos.2026.118606.  
+  **Web of Science, Scopus**
 
 ## 2024
 
-* Dynamics of Multi-Armed Spiral Waves / Evgeniy Kuklin, Sergei F.Pravdin // IEEE Xplore. 2024: Sibircon-2024. P.145-150. DOI: 10.1109/SIBIRCON63777.2024.10758464.  
+* Dynamics of Multi-Armed Spiral Waves / Evgeniy Kuklin, Sergei F.Pravdin // IEEE Xplore. 2024: Sibircon-2024. P.145-150. doi: 10.1109/SIBIRCON63777.2024.10758464.  
   **Scopus**
 
 ## 2023
