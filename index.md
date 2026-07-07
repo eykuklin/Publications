@@ -4,7 +4,7 @@
 
 ## 2026
 
-* Free and anchored multi-arm spiral waves in exitable media / Sergei F. Pravdin, Evgeniy Yu. Kuklin, Pavel A. Chistyakov, Alexander V. Panfilov  // Chaos, Solitons and Fractals, Volume 210, Part 2, 118606, ISSN 0960-0779, 2026, doi: 10.1016/j.chaos.2026.118606.  
+* Free and anchored multi-arm spiral waves in exсitable media / Sergei F. Pravdin, Evgeniy Yu. Kuklin, Pavel A. Chistyakov, Alexander V. Panfilov  // Chaos, Solitons and Fractals, Volume 210, Part 2, 118606, ISSN 0960-0779, 2026, doi: 10.1016/j.chaos.2026.118606.  
   **Web of Science, Scopus**
 
 ## 2024
